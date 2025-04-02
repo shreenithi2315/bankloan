@@ -57,14 +57,4 @@ Loan Analysis by Month, State, Term, Employee Length, Purpose, and Home Ownershi
 
 Interactive filters to refine data visualization
 
-🛠️ Installation & Usage
 
-Clone this repository:
-
-git clone https://github.com/your-repo-name.git
-
-Open Power BI and load the dataset.
-
-Apply SQL queries to visualize insights dynamically.
-
-Use the filters to refine and analyze data.
